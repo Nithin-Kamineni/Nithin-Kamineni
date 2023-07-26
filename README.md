@@ -22,10 +22,11 @@ I'm a product guy. My passion is building great ideas with smart people and deli
 
 
 
+<h2 align="left">My Blogs:</h2><br>
 
+- [AI can write your code, are you scared codder?](https://medium.com/@nithinkamineni1/ai-can-write-your-code-are-scared-codder-65860ce44ee)
 
-
-
+- [Deployment with Docker, Nginx, AWS](https://medium.com/@nithinkamineni1/ai-can-write-your-code-are-scared-codder-65860ce44ee)
 
 
 
