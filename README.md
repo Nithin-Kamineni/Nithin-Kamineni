@@ -40,7 +40,7 @@ I'm a product guy. My passion is building great ideas with smart people and deli
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Kamineni&layout=compact&theme=merko">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=21674853&theme=dark">
+<a href="https://stackoverflow.com/users/21674853/nithin-kamineni"><img src="https://github-readme-stackoverflow.vercel.app/?userID=21674853&theme=dark">
 
 
 
