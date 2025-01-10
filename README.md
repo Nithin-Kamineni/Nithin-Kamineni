@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Nithin Kamineni</h1>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Web+Developer;Computer+Science+Student;Java+Developer;ASP+Dot+NET+Developer;" alt="Headline" /></div>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=;Doctoral+Student;Dungen+Master;" alt="Headline" /></div>
 <h3 align="center"><a href="https://nithinkamineni.com">Portfolio↗️</a></h3>
 <h4 align="center"><a href="https://linlab.phhp.ufl.edu/profile/kamineni-venkata/#contact-details">My Work↗️</a></h4>
 
