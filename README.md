@@ -13,7 +13,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-I'm a product guy. My passion is building great ideas with smart people and delivering thought-leading, massive scale apps that impact millions of people. I enjoy working on things that customers love, value and use every day.
+I'm a researcher and doctoral student working on cutting-edge in-memory computing methods that address the issues of traditional computation. My work focuses on reducing the gap between theoretical concepts and their practical applications, ensuring that advancements in in-memory computing can benefit both academia and industry. By developing scalable and efficient solutions, I aim to contribute to real-world innovations that drive the future of in-memory computing.
 <br><br><br><br>
 <!-- Trophies -->
 
@@ -22,25 +22,17 @@ I'm a product guy. My passion is building great ideas with smart people and deli
 
 
 
-<h2 align="left">My Blogs:</h2><br>
-
-- [AI can write your code, are you scared codder?](https://medium.com/@nithinkamineni1/ai-can-write-your-code-are-scared-codder-65860ce44ee)
-
-- [Deployment with Docker, Nginx, AWS](https://medium.com/@nithinkamineni1/ai-can-write-your-code-are-scared-codder-65860ce44ee)
-
-
-
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center">Stats:</h2><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nithin-Kamineni&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-Kamineni&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Nithin-Kamineni&show_icons=true&theme=merko"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Nithin-Kamineni&theme=merko&date_format=M%20j%5B%2C%20Y%5D"> -->
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Kamineni&layout=compact&theme=merko">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
-<a href="https://stackoverflow.com/users/21674853/nithin-kamineni"><img src="https://github-readme-stackoverflow.vercel.app/?userID=21674853&theme=dark">
+<!-- <p align="center">
+<a href="https://stackoverflow.com/users/21674853/nithin-kamineni"><img src="https://github-readme-stackoverflow.vercel.app/?userID=21674853&theme=dark"> -->
 
 
 
